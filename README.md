@@ -4,7 +4,7 @@
 <!---
 github stat
 --->
-<img alt='Rill GitHub Stats' src='https://github-readme-stats.vercel.app/api?username=jakues&hide=["issues","prs"]&show_icons=true&theme=cobalt&langs_count=8' />
+<img alt='Rill GitHub Stats' src='https://github-readme-stats.vercel.app/api?username=jakues&hide=["issues"]&show_icons=true&theme=cobalt&langs_count=8' />
 
 <img alt='Rill Most Lang Usage' src='https://github-readme-stats.vercel.app/api/top-langs?username=jakues&show_icons=true&theme=cobalt&locale=en&layout=compact' />
 
