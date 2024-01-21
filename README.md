@@ -17,6 +17,6 @@
 
 ## My Github stats
 
-<img alt='Rill GitHub Stats' src='https://github-readme-stats.vercel.app/api?username=jakues&show_icons=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5' />
+<img alt='Rill GitHub Stats' src='https://github-readme-stats.vercel.app/api?username=savioruz&show_icons=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5' />
 
-<img alt='Rill Most Lang Usage' src='https://github-readme-stats.vercel.app/api/top-langs?username=jakues&show_icons=true&locale=en&hide_progress=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5' />
+<img alt='Rill Most Lang Usage' src='https://github-readme-stats.vercel.app/api/top-langs?username=savioruz&show_icons=true&locale=en&hide_progress=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5' />
