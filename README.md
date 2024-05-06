@@ -20,3 +20,7 @@
 <img alt='Rill GitHub Stats' src='https://github-readme-stats.vercel.app/api?username=savioruz&show_icons=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5' />
 
 <img alt='Rill Most Lang Usage' src='https://github-readme-stats.vercel.app/api/top-langs?username=savioruz&show_icons=true&locale=en&hide_progress=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5' />
+
+<a href="https://discord.com/users/414761072533307403" target="_blank" rel="nofollow">
+   <img src="https://lanyard-profile-readme.vercel.app/api/414761072533307403?bg=1e1e2eidleMessage=Probably%20doing%20something%20else..." alt="Discord Presence">
+</a>
