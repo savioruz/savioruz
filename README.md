@@ -1,26 +1,34 @@
-## About Me
+# 👋 Hi, I’m Kheril Faqih  
 
-👋 Hi, I’m Kheril Faqih
+💻 Passionate about building clean and efficient code.  
+🌱 Currently diving deep into **Go** and exploring new tech.  
 
-🌱 I’m currently learning go, c/c++, and DevOps
-  <br><br>
+---
 
-## Tools I've been using
+## 🛠️ **Tech Stack**  
+<div align="start">
+  <code><img width="40" src="https://user-images.githubusercontent.com/25181517/192149581-88194d20-1a37-4be8-8801-5dc0017ffbbe.png" alt="Go" title="Go"/></code>
+	<code><img width="40" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt="JavaScript" title="JavaScript"/></code>
+	<code><img width="40" src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" alt="React" title="React"/></code>
+	<code><img width="40" src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png" alt="TypeScript" title="TypeScript"/></code>
+</div>
 
-<img alt="Firefox Browser" src="https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white" /> <img alt="Chromium" src="https://img.shields.io/badge/Chromium-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white" /><br><img alt="VSCodium" src="https://img.shields.io/badge/VSCodium-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-<br><br>
+---
 
-## Opearting systems I ran
+## 📊 **GitHub Stats**
 
-<img alt="Fedora" src="https://img.shields.io/badge/Fedora-0B57A4?style=for-the-badge&logo=fedora&logoColor=white" /> <img alt="Debian" src="https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white" /> <img alt="OpenWRt" src="https://img.shields.io/badge/OpenWrt-00B5E2?style=for-the-badge&logo=openwrt&logoColor=white" /> <img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
-<br><br>
-
-## My Github stats
-
-<img alt='Rill GitHub Stats' src='https://github-readme-stats.vercel.app/api?username=savioruz&show_icons=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5' />
-
+<img alt='Kheril GitHub Stats' src='https://github-readme-stats.vercel.app/api?username=savioruz&show_icons=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5' />
 <img alt='Rill Most Lang Usage' src='https://github-readme-stats.vercel.app/api/top-langs?username=savioruz&show_icons=true&locale=en&hide_progress=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5' />
 
-<a href="https://discord.com/users/414761072533307403" target="_blank" rel="nofollow">
-   <img src="https://lanyard-profile-readme.vercel.app/api/414761072533307403?bg=1e1e2eidleMessage=Probably%20doing%20something%20else..." alt="Discord Presence">
-</a>
+[![GitHub Streak](https://streak-stats.demolab.com?user=savioruz&theme=catppuccin-mocha)](https://git.io/streak-stats)
+
+---
+
+## 🌐 **Connect With Me**
+
+<p align="start">
+	<a href="https://linkedin.com/in/savioruz" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+	<a href="https://twitter.com/rill_blastmith" target="_blank"><img alt="X (formerly Twitter)" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+</p>
+
+---
