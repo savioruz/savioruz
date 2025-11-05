@@ -30,7 +30,7 @@
 <div align="center">
   <img alt='GitHub Stats' src='https://github-readme-stats.vercel.app/api?username=savioruz&show_icons=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5&hide_border=true' />
   
-  <img alt='Most Used Languages' src='https://github-readme-stats.vercel.app/api/top-langs/?username=savioruz&bg_color=1e1e2e&text_color=cdd6f4&title_color=94e2d5&hide_border=true&layout=donut&langs_count=7&hide=Jupyter%20Notebook,css' />
+  <img alt='Most Used Languages' src='https://github-readme-stats.vercel.app/api/top-langs/?username=savioruz&bg_color=1e1e2e&text_color=cdd6f4&title_color=94e2d5&hide_border=true&layout=donut&langs_count=7&exclude_repo=OpenSID-polaman&hide=Jupyter%20Notebook,css' />
   
   [![GitHub Streak](https://streak-stats.demolab.com?user=savioruz&theme=catppuccin-mocha&hide_border=true)](https://git.io/streak-stats)
 </div>
