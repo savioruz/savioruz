@@ -32,7 +32,7 @@
   
   <img alt='Most Used Languages' src='https://github-readme-stats.vercel.app/api/top-langs/?username=savioruz&bg_color=1e1e2e&text_color=cdd6f4&title_color=94e2d5&hide_border=true&layout=donut&langs_count=7&exclude_repo=OpenSID-polaman&hide=Jupyter%20Notebook,css' />
   
-  [![GitHub Streak](https://streak-stats.demolab.com?user=savioruz&theme=catppuccin-mocha&hide_border=true)](https://git.io/streak-stats)
+  <img alt='GitHub Streak' src='https://streak-stats.demolab.com?user=savioruz&theme=catppuccin-mocha&hide_border=true' />
 </div>
 
 ## 🌐 Connect With Me
