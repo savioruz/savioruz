@@ -8,9 +8,6 @@
     🌱 Diving deep into <b>Go</b> and exploring new tech
   </div>
   <div>
-    💡 Backend developer specializing in Go
-  </div>
-  <div>
     🚀 Open source enthusiast crafting scalable web applications
   </div>
   <div>
